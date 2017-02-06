@@ -1,0 +1,1 @@
+this project is for weibo spider. We obtain rumor information from http://service.account.weibo.com, first we get 'rid' tag from url (weibo_community.py), and second we use rumor_crawl.py to get the detail information. We obtain truth information randomly(truth_crawl.py). 
